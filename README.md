@@ -17,6 +17,32 @@ This project aims to develop a robust, secure, and scalable alumni engagement pl
 - **Payment Processing:** Secure payment gateways for donations and event registrations.
 - **Analytics:** Role-based access control (RBAC) and tools to monitor platform activity and user engagement.
 
+### **Feature Screenshots**
+
+#### **User Profiles**
+![User Profiles](./Prototype Screenshot/Donation.png)
+*Example of a user profile page with networking and communication tools.*
+
+#### **Event Management**
+![Event Management](./Prototype Screenshot/Donation.png)
+*Dashboard for creating and managing alumni events.*
+
+#### **Job Postings**
+![Job Postings](./Prototype Screenshot/Donation.png)
+*Integrated job board with opportunities.*
+
+#### **Content Sharing**
+![Content Sharing](./Prototype Screenshot/Donation.png)
+*Platform for sharing news and updates.*
+
+#### **Payment Processing**
+![Payment Processing](./Prototype Screenshot/Donation.png)
+*Secure payment gateway integration.*
+
+#### **Analytics**
+![Analytics](./Prototype Screenshot/Donation.png)
+*Dashboard for monitoring platform activity.*
+
 ## **Technical Stack**
 - **Frontend:** React.js or Angular for responsive web interfaces.
 - **Backend:** Node.js with Express.js for API management and user authentication.

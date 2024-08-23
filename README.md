@@ -46,12 +46,12 @@ This project aims to develop a robust, secure, and scalable alumni engagement pl
 *Secure and user-friendly donation page for contributing to the institution or events. Includes options for various payment methods and donation amounts.*
 
 ## **Technical Stack**
-- **Frontend:** React.js or Angular for responsive web interfaces.
+- **Frontend:** React.js for responsive web interfaces.
 - **Backend:** Node.js with Express.js for API management and user authentication.
 - **Database:** MongoDB or Firebase for real-time data storage and profile management.
 - **Hosting:** AWS, Google Cloud, or Azure for scalable and secure hosting.
 - **APIs:** Integration with LinkedIn API for job postings, OAuth for secure authentication, SendGrid for email notifications, and Razorpay for payment processing.
-- **Mobile App:** Flutter or React Native for a seamless mobile experience.
+- **Mobile App:** React Native for a seamless mobile experience.
 
 ## **Implementation Methodology**
 1. **Requirement Analysis:** Understanding the needs of the institution and alumni.

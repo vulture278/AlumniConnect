@@ -1,4 +1,4 @@
-# **Alumni Connect**
+# **AlumniMilap**
 
 ## **Overview**
 This project aims to develop a robust, secure, and scalable alumni engagement platform designed to connect alumni with their institution, foster a strong community, and enhance user engagement through personalized content and seamless user experiences.

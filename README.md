@@ -17,31 +17,33 @@ This project aims to develop a robust, secure, and scalable alumni engagement pl
 - **Payment Processing:** Secure payment gateways for donations and event registrations.
 - **Analytics:** Role-based access control (RBAC) and tools to monitor platform activity and user engagement.
 
-### **Feature Screenshots**
+### ****Highlights****
 
-#### **User Profiles**
-![User Profiles](./Project/alumni-connect/Prototype%20Screenshot/Donation.png)
-*Example of a user profile page with networking and communication tools.*
+#### **Login/Register Page**
+![Login Page](./Project/alumni-connect/Prototype%20Screenshot/Login.png)
+![Register Page](./Project/alumni-connect/Prototype%20Screenshot/Register.png)
+*Seamless authentication with a user-friendly interface for logging in and registering. The pages are designed for easy access and secure sign-up processes.*
 
-#### **Event Management**
-![Event Management](./Prototype Screenshot/Donation.png)
-*Dashboard for creating and managing alumni events.*
+#### **Home Page**
+![Home Page](./Project/alumni-connect/Prototype%20Screenshot/Home1.png)
+![Home Page](./Project/alumni-connect/Prototype%20Screenshot/Home2.png)
+*The central hub of the platform featuring an engaging overview of personalized content, latest updates, and quick access to key features.*
 
-#### **Job Postings**
-![Job Postings](./Prototype Screenshot/Donation.png)
-*Integrated job board with opportunities.*
+#### **Event Management Page**
+![Event Management Page](./Project/alumni-connect/Prototype%20Screenshot/Events.png)
+*Comprehensive tools for organizing, managing, and participating in alumni events. The interface allows for efficient event creation and management.*
 
-#### **Content Sharing**
-![Content Sharing](./Prototype Screenshot/Donation.png)
-*Platform for sharing news and updates.*
+#### **Job Postings Page**
+![Job Postings Page](./Project/alumni-connect/Prototype%20Screenshot/Job.png)
+*Integrated job board displaying career opportunities. Facilitates job searching and application through a streamlined interface.*
 
-#### **Payment Processing**
-![Payment Processing](./Prototype Screenshot/Donation.png)
-*Secure payment gateway integration.*
+#### **Alumni Directory**
+![Alumni Directory Page](./Project/alumni-connect/Prototype%20Screenshot/Directory.png)
+*A detailed directory showcasing alumni profiles and their achievements. Provides a platform for networking and staying updated with alumni activities.*
 
-#### **Analytics**
-![Analytics](./Prototype Screenshot/Donation.png)
-*Dashboard for monitoring platform activity.*
+#### **Donation Page**
+![Donation Page](./Project/alumni-connect/Prototype%20Screenshot/Donation.png)
+*Secure and user-friendly donation page for contributing to the institution or events. Includes options for various payment methods and donation amounts.*
 
 ## **Technical Stack**
 - **Frontend:** React.js or Angular for responsive web interfaces.

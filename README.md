@@ -20,7 +20,7 @@ This project aims to develop a robust, secure, and scalable alumni engagement pl
 ### **Feature Screenshots**
 
 #### **User Profiles**
-![User Profiles](./Prototype Screenshot/Donation.png)
+![User Profiles](./Project/alumni-connect/Prototype%20Screenshot/Donation.png)
 *Example of a user profile page with networking and communication tools.*
 
 #### **Event Management**
